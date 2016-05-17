@@ -1,0 +1,2 @@
+# haskell
+Project learning Haskell
